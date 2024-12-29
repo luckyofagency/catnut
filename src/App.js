@@ -288,7 +288,7 @@ export default function App() {
               </p>
             </div>
           </div>
-          <img className={styles.token_tri} src="./images/about_tri.png"></img>
+          
         </div>
         <div className={styles.roadmap}>
           <h1 className={styles.road_h1}>Roadmap</h1>
